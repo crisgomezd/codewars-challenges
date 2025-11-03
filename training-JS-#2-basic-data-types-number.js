@@ -9,7 +9,7 @@ When you have finished the work, click "Run Tests" to see if your code is workin
 
 In the end, click "Submit" to submit your code pass this kata. */
 
-// **************Solution**************
+// **************Solution***************
 
 let v1 = 50,
  v2 = 100,
